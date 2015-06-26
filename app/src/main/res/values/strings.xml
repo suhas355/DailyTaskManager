@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DailyTaskManager</string>
+    <string name="list_view">ListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_create_new_task">CreateNewTask</string>
+    <string name="create_new">create new!</string>
+    <string name="radio_priority_high">High</string>
+    <string name="radio_priority_medium">Medium</string>
+    <string name="radio_priority_low">Low</string>
+    <string name="priority_heading">Priority :</string>
+    <string name="details_heading">Details :</string>
+    <string name="date_heading">Date :</string>
+    <string name="time_heading">Time :</string>
+</resources>
